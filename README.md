@@ -184,104 +184,65 @@ The ROI gap between channels is extreme:
 
  <h3 align="left">Bounce Rate Heatmap — Channel × Device</h3>
 
-| Channel | Desktop | Mobile | Tablet |
-|---------|---------|--------|--------|
-| Email Campaigns | 27.5% ✅ | 27.3% ✅ | 27.3% ✅ |
-| Direct | 30.4% | 29.7% | 30.1% |
-| Organic Search | 35.3% | 35.2% | 34.8% |
-| Referral | 39.8% | 41.0% | 39.3% |
-| Paid Ads | 45.2% | 44.9% | 45.0% |
-| Social Media | 54.9% 🚨 | 55.4% 🚨 | 55.2% 🚨 |
+<img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/ccc4267d-374f-4af6-a913-46b70c0ba3c9" />
 
 > Social Media's 55%+ bounce rate across all devices — **16+ points above the next-highest channel** — suggests a serious disconnect between social ad creative and landing page content.
 
 ---
 
-### 5.3 Campaign Performance
+<h1 align="center">Campaign Performance</h1>
 
-#### Best & Worst Campaigns
+ <h3 align="left">Best & Worst Campaigns</h3>
 
 All six named campaigns performed within a narrow **$45K revenue band**, suggesting the campaign calendar is well-balanced. Holiday Special led revenue while Spring Collection delivered the highest efficiency.
 
-| Campaign | Sessions | Revenue | Conversions | Avg ROI | AOV Proxy |
-|----------|----------|---------|-------------|---------|-----------|
-| Holiday Special | 309,568 | **$889,422** | 8,760 | 14.47x | $102 |
-| Welcome Series | 312,951 | $887,858 | 8,774 | 15.97x | $101 |
-| Remarketing | 308,665 | $878,486 | 8,666 | 15.68x | $101 |
-| Black Friday | 303,263 | $875,831 | 8,643 | 15.48x | $101 |
-| Summer Sale | 305,917 | $871,281 | 8,706 | 14.86x | $100 |
-| Spring Collection | 287,086 | $844,166 | 8,229 | **17.01x** 🏆 | $103 |
+<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/c28d3927-b6f4-49d1-8c31-95c9cfbb42dd" />
 
-#### Campaign × Device Revenue
 
-| Campaign | Desktop | Mobile | Tablet | Top Device |
-|----------|---------|--------|--------|------------|
-| Black Friday | $268,191 | **$305,967** | $301,673 | 📱 Mobile |
-| Holiday Special | **$309,115** | $270,473 | **$309,834** | 📱💊 Tie |
-| Remarketing | $288,853 | $280,771 | **$308,862** | 💊 Tablet |
-| Spring Collection | $266,486 | **$317,480** | $260,200 | 📱 Mobile |
-| Summer Sale | $285,300 | $290,255 | **$295,727** | 💊 Tablet |
-| Welcome Series | $291,164 | **$302,493** | $294,201 | 📱 Mobile |
+ <h3 align="left">Campaign × Device Revenue</h3>
+
+<img width="1600" height="914" alt="image" src="https://github.com/user-attachments/assets/696e3f62-969c-48bc-8a78-753c5618e23d" />
+
 
 > Spring Collection skews heavily **Mobile (+$57K vs. Desktop)** — a strong signal to prioritize mobile-first creative for this campaign. Holiday Special and Remarketing lean toward Tablet, suggesting those audiences favor larger-screen browsing.
 
 ---
 
-### 5.4 Device & User Type Analysis
+<h1 align="center">Device & User Type Analysis</h1>
 
-#### Device Performance
+<h3 align="left">Device Performance</h3>
 
 Revenue is **remarkably balanced** across all three device types — a strong signal that DataPulse's funnel is well-optimized across form factors.
 
-| Device | Sessions | Revenue | Conversions | Conv Rate | Bounce Rate |
-|--------|----------|---------|-------------|-----------|-------------|
-| Tablet | 724,845 | $2,062,552 | 20,258 | 3.70% | 38.65% |
-| Mobile | 718,510 | $2,055,993 | 20,371 | 3.73% | 39.22% |
-| Desktop | 694,856 | $2,027,136 | 19,923 | 3.77% | 38.87% |
+<img width="1600" height="567" alt="image" src="https://github.com/user-attachments/assets/84e9f687-87a5-4789-b237-a203a382ba4a" />
 
-#### New vs. Returning Visitors
 
-| User Type | Sessions | Revenue | Conversions | Conv Rate | Bounce Rate |
-|-----------|----------|---------|-------------|-----------|-------------|
-| New Visitor | 1,044,472 | $3,025,562 | 29,795 | 3.76% | 38.86% |
-| Returning Visitor | 1,093,739 | $3,120,119 | 30,757 | 3.71% | 38.96% |
+ <h1 align="left">New vs. Returning Visitors</h1>
+
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/9f085004-59f3-4115-91b0-fd85b0f68c8e" />
+
 
 Key takeaways:
 - Returning Visitors generate a **3% revenue premium** over New Visitors despite comparable session volumes.
 - Conversion rates are nearly **identical** (3.71% vs. 3.76%), suggesting the onboarding funnel converts new users as efficiently as retained ones.
 - The near-parity across both groups signals a **mature, balanced audience** — neither acquisition nor retention is clearly bottlenecked.
 
-#### Conversion Rate Heatmap — Channel × Device
+<h3 align="left">Conversion Rate Heatmap — Channel × Device</h3>
 
-| Channel | Desktop | Mobile | Tablet |
-|---------|---------|--------|--------|
-| Direct | **6.00%** | **6.15%** | **6.02%** |
-| Email Campaigns | 4.98% | 5.07% | 4.98% |
-| Referral | 3.57% | 3.51% | 3.53% |
-| Paid Ads | 3.58% | 3.48% | 3.48% |
-| Social Media | 2.45% | 2.47% | 2.52% |
-| Organic Search | 2.01% | 2.03% | 1.98% |
+<img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/b920a7f9-2472-4e45-9be9-76a46c8bce55" />
+
 
 ---
 
-### 5.5 Regional Results
+<h1 align="center">Regional Results</h1>
 
-#### Revenue by Geography
+<h3 align="left">Revenue by Geography</h3>
 
 Revenue distribution across eight markets is fairly uniform — spanning from **Canada at $788K (12.8%)** down to **France at $738K (12.0%)**. All regions show consistent conversion rates (3.6%–3.9%), suggesting broad product-market fit internationally.
 
-| Geography | Sessions | Revenue | Conversions | Avg ROI | Rev Share |
-|-----------|----------|---------|-------------|---------|-----------|
-| 🇨🇦 Canada | 270,895 | **$788,229** | 7,638 | 16.79x | 12.8% |
-| 🇯🇵 Japan | 271,052 | $778,938 | 7,730 | 16.82x | 12.7% |
-| 🇺🇸 USA | 269,832 | $778,660 | 7,658 | 16.22x | 12.7% |
-| 🇩🇪 Germany | 269,067 | $778,071 | 7,607 | 15.16x | 12.7% |
-| 🇧🇷 Brazil | 263,148 | $768,885 | 7,572 | 16.04x | 12.5% |
-| 🇦🇺 Australia | 268,366 | $760,889 | 7,546 | 15.65x | 12.4% |
-| 🇬🇧 UK | 264,572 | $753,670 | 7,420 | 15.04x | 12.3% |
-| 🇫🇷 France | 261,279 | $738,339 | 7,381 | 14.96x | 12.0% |
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/793c22ec-a641-4ee9-8958-b20b860eafa3" />
 
-#### Channel × Geography Heatmap Findings
+<h3 align="left">Channel × Geography Heatmap Findings</h3>
 
 - **Paid Ads** dominates every geography, generating $232K–$247K per market. Canada ($247K) and Germany ($235K) lead; USA trails at $232K.
 - **Organic Search** is the second-largest channel in every market. USA generates the most Organic revenue ($195K), suggesting stronger SEO authority in English-language markets.
@@ -290,48 +251,141 @@ Revenue distribution across eight markets is fairly uniform — spanning from **
 
 ---
 
-### 5.6 Traffic Source Analysis
+<h1 align="center">Traffic Source Analysis</h1>
 
-#### Source Performance Overview
+<h3 align="left">Source Performance Overview</h3>
 
 All eight traffic sources performed within a narrow **$66K revenue range** — from Twitter at $795K down to Direct at $730K. ROI varies more meaningfully: **Facebook leads at 17.56x** while **Google lags at 14.19x**.
 
-| Traffic Source | Sessions | Revenue | Conversions | Mean ROI |
-|----------------|----------|---------|-------------|----------|
-| Twitter | 277,685 | **$795,943** | 7,822 | 15.95x |
-| Instagram | 279,664 | $795,476 | 7,868 | 15.12x |
-| LinkedIn | 279,183 | $786,103 | 7,789 | 16.77x |
-| Bing | 262,506 | $773,285 | 7,600 | 15.94x |
-| Google | 267,148 | $756,712 | 7,521 | 14.19x |
-| Facebook | 261,259 | $754,088 | 7,399 | **17.56x** 🏆 |
-| Email Newsletter | 255,212 | $753,746 | 7,390 | 15.58x |
-| Direct | 255,554 | $730,328 | 7,163 | 15.69x |
+<img width="1600" height="1067" alt="image" src="https://github.com/user-attachments/assets/ef93817d-1c20-4ee5-9eea-566b61c72a06" />
 
-#### Best-Performing Channel × Source Combinations
 
-| Rank | Channel | Source | Revenue | ROI |
-|------|---------|--------|---------|-----|
-| 🥇 | Paid Ads | Instagram | $259,836 | 0.77x |
-| 🥈 | Paid Ads | Email Newsletter | $249,292 | 0.79x |
-| 🥉 | Paid Ads | LinkedIn | $240,472 | 0.78x |
-| — | Organic Search | LinkedIn | $201,197 | **8.89x** ✅ |
-| — | Organic Search | Twitter | $205,279 | **8.55x** ✅ |
+<h3 align="left">Best-Performing Channel × Source Combinations</h3>
+
+<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/4b223268-8393-46c1-bc87-632b5c6afc62" />
+
 
 > While Paid Ads × Instagram wins on **absolute revenue**, Organic Search × LinkedIn wins on **ROI (8.89x vs. 0.77x)**. This underscores the strategic opportunity: investing in LinkedIn-targeted organic content could compound returns without proportionally increasing cost — particularly valuable for DataPulse's likely B2B audience segments.
 
 ---
 
-## 📌 Summary of Key Recommendations
+<h1 align="center">Summary of Key Recommendations</h1>
 
-| Priority | Area | Action | Expected Impact |
-|----------|------|--------|-----------------|
-| 🔴 High | Social Media | Reduce spend or redesign landing pages to fix 55% bounce rate | Improve 0.44x ROI |
-| 🔴 High | Paid Ads | Audit cost structure; shift budget toward Email & Organic | Improve 0.72x ROI |
-| 🟡 Medium | Spring Collection | Scale this campaign — highest ROI (17.0x) across all campaigns | Revenue uplift |
-| 🟡 Medium | Organic Search | Invest in SEO content, especially LinkedIn-distributed content | Compound 7.62x ROI |
-| 🟢 Low | France | Target geo-specific campaigns to close $50K gap vs. top markets | Geo parity |
-| 🟢 Low | Mobile UX | Spring Collection & Black Friday skew mobile — optimize creatives | Conversion lift |
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  th {
+    background-color: #2E5A88;
+    color: white;
+    text-align: left;
+    padding: 12px;
+  }
+  td {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    text-align: left;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  .status-high { color: #2ca02c; font-weight: bold; }
+  .status-med { color: #ff7f0e; font-weight: bold; }
+  .status-low { color: #d62728; font-weight: bold; }
+  .header-row { background-color: #e9eff5; font-weight: bold; }
+</style>
+</head>
+<body>
 
+<h2>Strategic Performance Overview</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Segment</th>
+    <th>Revenue</th>
+    <th>ROI / Rate</th>
+    <th>Performance Status</th>
+  </tr>
+  
+  <tr class="header-row"><td colspan="5">Channel Efficiency</td></tr>
+  <tr>
+    <td>Primary Driver</td>
+    <td>Paid Ads</td>
+    <td>$1,877,701</td>
+    <td>0.72x</td>
+    <td class="status-low"> Audit Required</td>
+  </tr>
+  <tr>
+    <td>Profit Leader</td>
+    <td>Direct</td>
+    <td>$1,043,732</td>
+    <td>68.12x</td>
+    <td class="status-high"> Top Performer</td>
+  </tr>
+  <tr>
+    <td>Balanced Growth</td>
+    <td>Organic Search</td>
+    <td>$1,473,115</td>
+    <td>7.62x</td>
+    <td class="status-high"> Healthy</td>
+  </tr>
+  <tr>
+    <td>Risk Area</td>
+    <td>Social Media</td>
+    <td>$528,668</td>
+    <td>0.44x</td>
+    <td class="status-low">High Bounce Rate</td>
+  </tr>
+
+  <tr class="header-row"><td colspan="5">Device Maturity</td></tr>
+  <tr>
+    <td>Tablet</td>
+    <td>Global Users</td>
+    <td>$2,062,552</td>
+    <td>3.70% Conv.</td>
+    <td class="status-high"> Fully Optimized</td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td>Global Users</td>
+    <td>$2,055,993</td>
+    <td>3.73% Conv.</td>
+    <td class="status-high"> Fully Optimized</td>
+  </tr>
+  <tr>
+    <td>Desktop</td>
+    <td>Global Users</td>
+    <td>$2,027,136</td>
+    <td>3.77% Conv.</td>
+    <td class="status-high"> Fully Optimized</td>
+  </tr>
+
+  <tr class="header-row"><td colspan="5">Campaign Insights</td></tr>
+  <tr>
+    <td>Top Revenue</td>
+    <td>Holiday Special</td>
+    <td>$889,422</td>
+    <td>14.47x</td>
+    <td class="status-high"> Revenue Peak</td>
+  </tr>
+  <tr>
+    <td>Top Efficiency</td>
+    <td>Spring Collection</td>
+    <td>$844,166</td>
+    <td>17.01x</td>
+    <td class="status-high"> ROI Winner</td>
+  </tr>
+</table>
+
+</body>
+</html>
 ---
 
 *Report generated from `web_traffic_data.csv` | Analysis period: Jan 18, 2024 – Jan 16, 2025 | 10,000 records across 18 dimensions*
