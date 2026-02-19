@@ -111,26 +111,33 @@ The dataset is a **single flat-file CSV** containing 10,000 rows and 18 columns.
 
 ###  Data Dictionary
 
-| # | Column | Data Type | Description |
-|---|--------|-----------|-------------|
-| 1 | `Date` | Date | Daily date of the traffic record (DD-MM-YYYY, Jan 2024 – Jan 2025) |
-| 2 | `Channel` | Categorical | Marketing channel: Direct, Email Campaigns, Organic Search, Paid Ads, Referral, Social Media |
-| 3 | `Campaign_Name` | Categorical | Campaign driving traffic: Remarketing, Black_Friday, Holiday_Special, Summer_Sale, Spring_Collection, Welcome_Series, or None |
-| 4 | `Device_Type` | Categorical | User device: Desktop, Mobile, or Tablet |
-| 5 | `Geography` | Categorical | Country of the visitor: USA, UK, Canada, Australia, Germany, France, Brazil, Japan |
-| 6 | `Traffic_Source` | Categorical | Referring platform: Google, Instagram, LinkedIn, Facebook, Twitter, Bing, Direct, Email Newsletter |
-| 7 | `User_Type` | Categorical | Visitor classification: New Visitor or Returning Visitor |
-| 8 | `Sessions` | Integer | Total number of sessions for this row's dimension combination |
-| 9 | `Unique_Visitors` | Integer | Count of unique individual visitors |
-| 10 | `Page_Views` | Integer | Total pages viewed across all sessions in this record |
-| 11 | `Bounce_Rate` | Float (0–1) | Proportion of sessions that left without further interaction |
-| 12 | `Average_Session_Duration` | Float (min) | Mean time spent per session in minutes |
-| 13 | `Conversion_Rate` | Float (0–1) | Proportion of sessions resulting in a conversion |
-| 14 | `Conversions` | Integer | Absolute number of goal completions (purchases, sign-ups, etc.) |
-| 15 | `Cost` | Float (USD) | Total marketing spend attributed to this record |
-| 16 | `Revenue` | Float (USD) | Total revenue generated from the sessions in this record |
-| 17 | `ROI` | Float | Return on investment ratio (Revenue / Cost) |
-| 18 | `Exit_Rate` | Float (0–1) | Proportion of page views that were the last in their session |
+<table style="width:100%; font-family: sans-serif; border-collapse: collapse;">
+  <tr style="background-color: #2E5A88; color: white;">
+    <th style="padding: 10px;">Table Type</th>
+    <th style="padding: 10px;">Table Name</th>
+    <th style="padding: 10px;">Primary Columns</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"><b>Fact Table</b></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Fact_Performance</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Sessions, Revenue, Cost, Conversions, Page_Views</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="border: 1px solid #ddd; padding: 8px;"><b>Dimension</b></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Dim_Marketing</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Channel, Campaign_Name, Traffic_Source</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;"><b>Dimension</b></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Dim_Context</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Geography, Device_Type, User_Type</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td style="border: 1px solid #ddd; padding: 8px;"><b>Dimension</b></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Dim_Time</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Date, Month, Quarter, Year</td>
+  </tr>
+</table>
 
 > **Note:** No primary/foreign key relationships exist — this is a single flat table structure optimized for slice-and-dice analysis across all dimension combinations.
 
